@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashutoshnaidu99
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently studing in Shri Shankracharya Technical Campus, Bhilai
+- 🌱 I’m currently my Btech CSE(AIML) from SSTC, Bhilai
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me --
 - Email- ashutoshnaidu120@gmail.com
